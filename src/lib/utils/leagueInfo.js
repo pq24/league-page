@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "1048180190368690176"; // your league ID
-export const leagueName = "League of Ordinary Gentelman (LOG LEAGUE)"; // your league name
+export const leagueID = "1048255308264525824"; // your league ID
+export const leagueName = "Josh Gordon's Comeback Tour"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
