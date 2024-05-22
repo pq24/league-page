@@ -1,16 +1,17 @@
 /*   STEP 1   */
-export const leagueID = "1048255308264525824"; // your league ID
-export const leagueName = "Josh Gordon's Comeback Tour"; // your league name
+export const leagueID = "1048333951015718912"; // your league ID
+export const leagueName = "Colton Sits When He Pees"; // your league name
 export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
+  
+  <p>***</p>
+  <p>***</p>
   <p>Dear Future Paul, write something funny here </p>
   <p>or maybe not idc I am just a website.</p>
-  <p>***</p>
-  <p>***</p>
   <p>***</p>
   <p>***</p>
 `;
