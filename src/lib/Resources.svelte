@@ -5,6 +5,13 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
+            name: "Lakeview Pod",
+            url: "https://open.spotify.com/show/2Z7JStI0qmhbx8fW4sIkOI?si=3d45a7adb3c14302l",
+            icon: "podcasts",
+            premium: false,
+            separator: true,
+        }, 
+        {
             name: "FTN Fantasy",
             url: "https://www.ftnfantasy.com/nfl",
             icon: "insights",
