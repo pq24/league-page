@@ -10,8 +10,10 @@ export const homepageText = `
   
   <p>***</p>
   <p>***</p>
-  <p>Dear Future Paul, write something funny here </p>
-  <p>or maybe not idc I am just a website.</p>
+  <p>Welcome to the battlefield where legends are forged and champions rise!</p> 
+  <p>Since its inception in 2015, the CSWHP Fantasy Football League has been the ultimate arena for glory or punishment</p> 
+  <p>Created by the visionary minds at MacMucci, this league isn't just a game—it's a legacy of strategic brilliance and competitive fire.</p>
+  <p>So, gear up and get ready to immerse yourself in the adrenaline-pumping action that is the MacMucci Fantasy Football League. May your teams be unstoppable, your plays legendary, and your path to victory unforgettable! Welcome to the league where dreams are made, and heroes are crowned.</p>
   <p>***</p>
   <p>***</p>
 `;
