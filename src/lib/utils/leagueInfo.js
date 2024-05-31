@@ -16,24 +16,24 @@ export const homepageText = `
   <p>So, gear up and get ready to immerse yourself in the adrenaline-pumping action that is the MacMucci Fantasy Football League. May your teams be unstoppable, your plays legendary, and your path to victory unforgettable! Welcome to the league where dreams are made, and heroes are crowned.</p>
   <p>***</p>
   <p>***HALL OF FAME***</p>
-  <p>2015 Slutsky</p>
-  <p>2016 Slutsky</p>  
-  <p>2017 Paul</p>
-  <p>2018 Paul</p>
-  <p>2019 Rob</p>
-  <p>2020 Rob</p>
-  <p>2021 Colton</p>
-  <p>2022 Mikey</p>
-  <p>2023 Colton</p>
+  <p>2015 Jason Slutsky</p>
+  <p>2016 Jason Slutsky</p>  
+  <p>2017 Paul Quinn</p>
+  <p>2018 Paul Quinn</p>
+  <p>2019 Rob McMahon</p>
+  <p>2020 Rob McMahon</p>
+  <p>2021 Colton Lubaszka </p>
+  <p>2022 Mike Lake</p>
+  <p>2023 Colton Lubaszka </p>
   <p>***</p>
   <p>***HALL OF SHAME***</p>
-  <p>2017 Tom</p>
-  <p>2018 Stemple (RIP)</p>
-  <p>2019 Colton</p>
-  <p>2020 Paul</p>
-  <p>2021 Tom</p>
-  <p>2022 Slutsky</p>
-  <p>2023 Rob</p>
+  <p>2017 Tom Giacomucci </p>
+  <p>2018 Dan Stemple (RIP)</p>
+  <p>2019 Colton Lubaszka</p>
+  <p>2020 Paul Quinn</p>
+  <p>2021 Tom Giacomucci </p>
+  <p>2022 Jason Slutsky</p>
+  <p>2023 Rob McMahon</p>
   <p>***</p> 
   <p>***</p>
   <p>***</p>  
