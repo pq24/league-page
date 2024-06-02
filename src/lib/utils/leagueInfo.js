@@ -87,29 +87,29 @@ export const homepageText = `
         </tr>
     </table>
 
-  <p>***HALL OF FAME***</p>
-  <p>2015 Jason Slutsky</p>
-  <p>2016 Jason Slutsky</p>  
-  <p>2017 Paul Quinn</p>
-  <p>2018 Paul Quinn</p>
-  <p>2019 Rob McMahon</p>
-  <p>2020 Rob McMahon</p>
-  <p>2021 Colton Lubaszka </p>
-  <p>2022 Mike Lake</p>
-  <p>2023 Colton Lubaszka </p>
-  <p>***</p>
-  <p>***HALL OF SHAME***</p>
-  <p>2017 Tom Giacomucci </p>
-  <p>2018 Dan Stemple (RIP)</p>
-  <p>2019 Colton Lubaszka</p>
-  <p>2020 Paul Quinn</p>
-  <p>2021 Tom Giacomucci </p>
-  <p>2022 Jason Slutsky</p>
-  <p>2023 Rob McMahon</p>
-  <p>***</p> 
-  <p>***</p>
-  <p>***</p>  
-  <p>***</p>
+  // <p>***HALL OF FAME***</p>
+  // <p>2015 Jason Slutsky</p>
+  // <p>2016 Jason Slutsky</p>  
+  // <p>2017 Paul Quinn</p>
+  // <p>2018 Paul Quinn</p>
+  // <p>2019 Rob McMahon</p>
+  // <p>2020 Rob McMahon</p>
+  // <p>2021 Colton Lubaszka </p>
+  // <p>2022 Mike Lake</p>
+  // <p>2023 Colton Lubaszka </p>
+  // <p>***</p>
+  // <p>***HALL OF SHAME***</p>
+  // <p>2017 Tom Giacomucci </p>
+  // <p>2018 Dan Stemple (RIP)</p>
+  // <p>2019 Colton Lubaszka</p>
+  // <p>2020 Paul Quinn</p>
+  // <p>2021 Tom Giacomucci </p>
+  // <p>2022 Jason Slutsky</p>
+  // <p>2023 Rob McMahon</p>
+  // <p>***</p> 
+  // <p>***</p>
+  // <p>***</p>  
+  // <p>***</p>
   <p>***</p>
 `;
 
