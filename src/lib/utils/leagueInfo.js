@@ -78,7 +78,7 @@ export const homepageText = `
         <tr>
             <td>2022</td>
             <td>Mike Lake</td>
-            <td>Jason Slutsk</td>
+            <td>Jason Slutsky</td>
         </tr>
         <tr>
             <td>2023</td>
