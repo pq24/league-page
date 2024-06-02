@@ -41,44 +41,49 @@ export const homepageText = `
             <th>WALL OF SHAME</th>
         </tr>
         <tr>
-            <td>BLANK1</td>
-            <td>BLANK2</td>
-            <td>BLANK3</td>
+            <td>2015</td>
+            <td>Jason Slutsky</td>
+            <td>No Punishments</td>
         </tr>
         <tr>
-            <td>BLANK1</td>
-            <td>BLANK2</td>
-            <td>BLANK3</td>
+            <td>2016</td>
+            <td>Jason Slutsky</td>
+            <td>No Punishments</td>
         </tr>
         <tr>
-            <td>BLANK1</td>
-            <td>BLANK2</td>
-            <td>BLANK3</td>
+            <td>2017</td>
+            <td>Paul Quinn</td>
+            <td>Tom Giacomucci </td>
         </tr>
         <tr>
-            <td>BLANK1</td>
-            <td>BLANK2</td>
-            <td>BLANK3</td>
+            <td>2018</td>
+            <td>Paul Quinn</td>
+            <td>Dan Stemple (RIP)</td>
         </tr>
         <tr>
-            <td>BLANK1</td>
-            <td>BLANK2</td>
-            <td>BLANK3</td>
+            <td>2019</td>
+            <td>Rob McMahon</td>
+            <td>Colton Lubaszka</td>
         </tr>
         <tr>
-            <td>BLANK1</td>
-            <td>BLANK2</td>
-            <td>BLANK3</td>
+            <td>2020</td>
+            <td>Rob McMahon</td>
+            <td>Paul Quinn</td>
         </tr>
         <tr>
-            <td>BLANK1</td>
-            <td>BLANK2</td>
-            <td>BLANK3</td>
+            <td>2021</td>
+            <td>Colton Lubaszka</td>
+            <td>Tom Giacomucci</td>
         </tr>
         <tr>
-            <td>BLANK1</td>
-            <td>BLANK2</td>
-            <td>BLANK3</td>
+            <td>2022</td>
+            <td>Mike Lake</td>
+            <td>Jason Slutsk</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>Colton Lubaszka</td>
+            <td>Rob McMahon</td>
         </tr>
     </table>
 
