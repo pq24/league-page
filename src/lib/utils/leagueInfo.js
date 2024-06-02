@@ -15,6 +15,73 @@ export const homepageText = `
   <p>Created by the visionary minds at MacMucci, this league isn't just a game—it's a legacy of strategic brilliance and competitive fire.</p>
   <p>So, gear up and get ready to immerse yourself in the adrenaline-pumping action that is the MacMucci Fantasy Football League. May your teams be unstoppable, your plays legendary, and your path to victory unforgettable! Welcome to the league where dreams are made, and heroes are crowned.</p>
   <p>***</p>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Example</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>YEAR</th>
+            <th>HALL OF FAME</th>
+            <th>WALL OF SHAME</th>
+        </tr>
+        <tr>
+            <td>BLANK1</td>
+            <td>BLANK2</td>
+            <td>BLANK3</td>
+        </tr>
+        <tr>
+            <td>BLANK1</td>
+            <td>BLANK2</td>
+            <td>BLANK3</td>
+        </tr>
+        <tr>
+            <td>BLANK1</td>
+            <td>BLANK2</td>
+            <td>BLANK3</td>
+        </tr>
+        <tr>
+            <td>BLANK1</td>
+            <td>BLANK2</td>
+            <td>BLANK3</td>
+        </tr>
+        <tr>
+            <td>BLANK1</td>
+            <td>BLANK2</td>
+            <td>BLANK3</td>
+        </tr>
+        <tr>
+            <td>BLANK1</td>
+            <td>BLANK2</td>
+            <td>BLANK3</td>
+        </tr>
+        <tr>
+            <td>BLANK1</td>
+            <td>BLANK2</td>
+            <td>BLANK3</td>
+        </tr>
+        <tr>
+            <td>BLANK1</td>
+            <td>BLANK2</td>
+            <td>BLANK3</td>
+        </tr>
+    </table>
+
   <p>***HALL OF FAME***</p>
   <p>2015 Jason Slutsky</p>
   <p>2016 Jason Slutsky</p>  
