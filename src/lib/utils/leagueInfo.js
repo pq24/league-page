@@ -39,51 +39,61 @@ export const homepageText = `
             <th>YEAR</th>
             <th>HALL OF FAME</th>
             <th>WALL OF SHAME</th>
+            <th>Last Place Punishment</th>            
         </tr>
         <tr>
             <td>2015</td>
             <td>Jason Slutsky</td>
             <td>No Punishments</td>
+            <th>No Punishments</th>
         </tr>
         <tr>
             <td>2016</td>
             <td>Jason Slutsky</td>
             <td>No Punishments</td>
+            <th>No Punishments</th>
         </tr>
         <tr>
             <td>2017</td>
             <td>Paul Quinn</td>
             <td>Tom Giacomucci </td>
+            <th>Novice Driver Bumper Sticker</th>
         </tr>
         <tr>
             <td>2018</td>
             <td>Paul Quinn</td>
             <td>Dan Stemple (RIP)</td>
+            <th>Open Mic Stand-up</th>
         </tr>
         <tr>
             <td>2019</td>
             <td>Rob McMahon</td>
             <td>Colton Lubaszka</td>
+            <th>Throw out the First Pitch at the Blue Rocks</th>
         </tr>
         <tr>
             <td>2020</td>
             <td>Rob McMahon</td>
             <td>Paul Quinn</td>
+            <th>PowerPoint Presentation (Nicolas Cage)</th>
         </tr>
         <tr>
             <td>2021</td>
             <td>Colton Lubaszka</td>
             <td>Tom Giacomucci</td>
+            <th>Senior Water Aerobics Class</th>
         </tr>
         <tr>
             <td>2022</td>
             <td>Mike Lake</td>
             <td>Jason Slutsky</td>
+            <th>Waffle House for 24 Hours</th>
         </tr>
         <tr>
             <td>2023</td>
             <td>Colton Lubaszka</td>
             <td>Rob McMahon</td>
+            <th>Homemade Music Video</th>
         </tr>
     </table>
 `;
