@@ -15,6 +15,8 @@ export const homepageText = `
   <p>Created by the visionary minds at MacMucci, this league isn't just a game—it's a legacy of strategic brilliance and competitive fire.</p>
   <p>So, gear up and get ready to immerse yourself in the adrenaline-pumping action that is the MacMucci Fantasy Football League. May your teams be unstoppable, your plays legendary, and your path to victory unforgettable! Welcome to the league where dreams are made, and heroes are crowned.</p>
   <p>***</p>
+  <p>Menu button in the top left will bring you to records, rivlary, and other things that may or may not work on this site yet...depends on how much motivation I get before draft day</p> 
+  <p>***</p>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Table Example</title>
